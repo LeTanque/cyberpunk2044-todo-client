@@ -26,7 +26,9 @@ Launch the app from `./dist/mac-arm64/todo-electron.app`
 
 ## Goal
 
-Just to build a todo app for personal use. Something that I can build out features for if I want/need them. Something with a relatively low overhead and eventual portability. To be honest, I just needed a todo app on my laptop. 
+A todo app for personal use, which I invite you to use, as well! 
+
+I'll build out additional features as I want/need them. Relatively low overhead and eventual portability. Just a simple todo app. 
 
 ## TODO
 
